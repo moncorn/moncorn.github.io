@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Announcements on RedRoom</title>
-    <link>http://www.example.com/announcements/</link>
+    <link>https://moncorn.github.io/announcements/</link>
     <description>Recent content in Announcements on RedRoom</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 09 Jan 2026 12:13:57 +0800</lastBuildDate>
-    <atom:link href="http://www.example.com/announcements/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://moncorn.github.io/announcements/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🕵️ RedRoom Hackathon 🕵️</title>
-      <link>http://www.example.com/announcements/hackathon/</link>
+      <link>https://moncorn.github.io/announcements/hackathon/</link>
       <pubDate>Fri, 09 Jan 2026 12:13:57 +0800</pubDate>
-      <guid>http://www.example.com/announcements/hackathon/</guid>
+      <guid>https://moncorn.github.io/announcements/hackathon/</guid>
       <description>&lt;p&gt;Hey everyone,&#xA;RedRoom is back with another all-night cyber security hackathon, and this one is going to be a long one 👀&#xA;Join us for an afternoon-to-early-morning dual Capture The Flag event that blends physical challenges with hands-on cyber hacking.&lt;/p&gt;&#xA;&lt;p&gt;We’ll kick things off at 3:00pm with a physical CTF game.&#xA;Once that wraps up, we’ll transition into an all-night cyber CTF, where the flags keep flying until 2:00am.&lt;/p&gt;&#xA;&lt;p&gt;Bring your laptop, your hoodie, and your stamina — this one’s for the dedicated 😈&lt;/p&gt;</description>
     </item>
     <item>
       <title>📢 REDROOM PRESENTS: 1 WEEK TO GIT GUD</title>
-      <link>http://www.example.com/announcements/git-gud/</link>
+      <link>https://moncorn.github.io/announcements/git-gud/</link>
       <pubDate>Thu, 20 Nov 2025 09:32:50 +0800</pubDate>
-      <guid>http://www.example.com/announcements/git-gud/</guid>
+      <guid>https://moncorn.github.io/announcements/git-gud/</guid>
       <description>&lt;p&gt;Hey everyone!&lt;/p&gt;&#xA;&lt;p&gt;Get ready to GIT GUD — we’re running five afternoons of skill-building workshops covering C &amp;amp; X86-64, home lab access, automation, and GitHub workflows. Come to one or come to all!&lt;/p&gt;&#xA;&lt;h2 id=&#34;details&#34;&gt;&#xA;  Details:&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#details&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;🗓 Dates:&lt;/strong&gt; 1 - 5 December&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;⏰ Time:&lt;/strong&gt; 12:00pm – 4:00pm each day&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;📍 Location:&lt;/strong&gt; Joondalup room 7.104 (Online through teams as well)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;💻 Bring:&lt;/strong&gt; Laptop + an unending thirst for knowledge&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tickets:&lt;/strong&gt; you can get your tickets &lt;a href=&#34;https://events.humanitix.com/1-week-to-git-gud&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;heres-whats-on&#34;&gt;&#xA;  Here’s what’s on:&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#heres-whats-on&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;monday-1-dec--guided-walkthrough-of-cisco-networking-basics-certificate-with-keelan&#34;&gt;&#xA;  Monday, 1 Dec – Guided walkthrough of &amp;ldquo;Cisco Networking Basics&amp;rdquo; certificate with Keelan&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#monday-1-dec--guided-walkthrough-of-cisco-networking-basics-certificate-with-keelan&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Begin completing your Cisco Networking Basics certification with a guided walkthrough&lt;/p&gt;</description>
     </item>
     <item>
       <title>RedRoom is now Affiliated!</title>
-      <link>http://www.example.com/announcements/affiliation/</link>
+      <link>https://moncorn.github.io/announcements/affiliation/</link>
       <pubDate>Wed, 29 Oct 2025 08:53:35 +0800</pubDate>
-      <guid>http://www.example.com/announcements/affiliation/</guid>
+      <guid>https://moncorn.github.io/announcements/affiliation/</guid>
       <description>&lt;p&gt;We are happy to announce that RedRoom is now affiliated with ECU Guild!  This means we are now an independent club and able to host more events for the future!&lt;/p&gt;&#xA;&lt;p&gt;We thank the Computing and Security Student Association for aiding our club during our attempts to revive it.&lt;/p&gt;&#xA;&lt;p&gt;If you would like to register as a member to RedRoom, click &lt;a href=&#34;join_a_club?pick_a_club=redroom&#34; &gt;here.&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
